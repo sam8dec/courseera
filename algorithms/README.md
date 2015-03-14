@@ -1,4 +1,4 @@
-#Solutions to Projramming Assignments
+#Solutions to Programming Assignments
 
 ##Week 1: Counting Inversions
 The divide and conquer algorithm for counting the number of inversions in an array.
